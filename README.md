@@ -1,12 +1,12 @@
 # Seminar-Research-Object-Identification
 This repository will give a detailed information about Object Identification in different software tools such as Core ML, Google Vision and Microsoft Azure
 
-Rathin’s Video Link: https://sheridanc-my.sharepoint.com/:v:/g/personal/choprrat_shernet_sheridancollege_ca/EQesrqyEth5Oio0pk93CSz4BCzoGuLIoRN9tRuJAUlsSgA?e=Fjc0Ow
+Rathin’s Video Link: https://sheridanc-my.sharepoint.com/personal/choprrat_shernet_sheridancollege_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchoprrat%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FSeminar%5FRathinChopra%5FVideo%2Emp4&parent=%2Fpersonal%2Fchoprrat%5Fshernet%5Fsheridancollege%5Fca%2FDocuments&originalPath=aHR0cHM6Ly9zaGVyaWRhbmMtbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvY2hvcHJyYXRfc2hlcm5ldF9zaGVyaWRhbmNvbGxlZ2VfY2EvRVFlc3JxeUV0aDVPaW8wcGs5M0NTejRCQ3pvR3VMSW9STjl0UnVKQVVsc1NnQT9ydGltZT0zMGhGUkpfbDEwZw
 
  
 
-Deep’s Video Link: https://sheridanc-my.sharepoint.com/:v:/g/personal/patel795_shernet_sheridancollege_ca/ERpSTuhio5BKs44v1a7ndzoBG9hpzle4D23vRfB__7XyeA?e=cuR81j
+Deep’s Video Link: https://sheridanc-my.sharepoint.com/personal/patel795_shernet_sheridancollege_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatel795%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FSeminarVideo%2Emp4&parent=%2Fpersonal%2Fpatel795%5Fshernet%5Fsheridancollege%5Fca%2FDocuments&originalPath=aHR0cHM6Ly9zaGVyaWRhbmMtbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvcGF0ZWw3OTVfc2hlcm5ldF9zaGVyaWRhbmNvbGxlZ2VfY2EvRVJwU1R1aGlvNUJLczQ0djFhN25kem9CRzlocHpsZTREMjN2UmZCX183WHllQT9ydGltZT1SWXlFVkpfbDEwZw
 
  
 
-Navneet’s Video Link: https://sheridanc-my.sharepoint.com/:v:/g/personal/sing5831_shernet_sheridancollege_ca/EQ0LTCoplUtGl-HeHauQQEoBFKj9OAa6R8_YJmSdT44aKQ?e=dQH9tB
+Navneet’s Video Link: https://sheridanc-my.sharepoint.com/personal/sing5831_shernet_sheridancollege_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsing5831%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FCognitiveComputing%5FSeminar%5FNavneetSingh%2FCognitiveSeminar%5FNavneetSingh%2Emkv&parent=%2Fpersonal%2Fsing5831%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FCognitiveComputing%5FSeminar%5FNavneetSingh&originalPath=aHR0cHM6Ly9zaGVyaWRhbmMtbXkuc2hhcmVwb2ludC5jb20vOnY6L2cvcGVyc29uYWwvc2luZzU4MzFfc2hlcm5ldF9zaGVyaWRhbmNvbGxlZ2VfY2EvRVEwTFRDb3BsVXRHbC1IZUhhdVFRRW9CRktqOU9BYTZSOF9ZSm1TZFQ0NGFLUT9ydGltZT1RVkprWkpfbDEwZw
